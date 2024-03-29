@@ -4,17 +4,16 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>John Matrix</strong>, a former Delta Force operative, now a hobbyist lumberjack.<br/>
-        I spend my days living alone with my daughter Jenny, and cutting trees and carrying trunks around to keep in shape.
-      </div>
+        I'm <strong>Damian M. Buzink</strong>, an aspiring game developer.<br/>
+        Ever since I was young I wanted to become a game developer. I went on to do a software development bachelor and computer science and engineering master. During these studies I learned about game development.      </div>
 
-      <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
+      <div style="margin-top: 20px;">I've worked on these <router-link to="/game-projects">games / game prototypes</router-link> and on these <router-link to="/other-projects">non-game projects</router-link></div>
 
-      <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong> as a monk, like my good friend John Rambo did a few years back. You can reach me at <a href="mailto:johnmatrix@deltaforce.us">johnmatrix@deltaforce.us</a> or <router-link to="/contact">through here</router-link>.</div>
+      <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong> as a gameplay programmer or similar. You can reach me at <a href="mailto:dbuzink@gmail.com">dbuzink@gmail.com</a> or <router-link to="/contact">through here</router-link>.</div>
     </div>
 
     <div class="photo">
-      <img src="img/avatar.png" alt="Avatar of John" /> 
+      <img width="300" height="480" src="img/avatar.png" alt="Avatar of John" /> 
     </div>
 
     <div style="clear:both"></div>
@@ -29,7 +28,7 @@
 }
 
 .photo {
-  margin-top: 50px;
+    margin-top: 0px;
   text-align: center;
 }
 
@@ -43,6 +42,12 @@
     padding: 10px;
     padding-left: 80px;
   }
+}
+
+@media only screen and (min-width: 1310px){
+    .photo {
+        margin-top: -100px;
+    }
 }
 
 </style>
