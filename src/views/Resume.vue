@@ -3,15 +3,15 @@
     <h1>Resume</h1>
 
     <div class="paragraph">
-      I'm <strong>Damian M. Buzink</strong>, a aspiring game developer.
+      I'm <strong>Damian M. Buzink</strong>, an software developer and aspiring game developer.
       <br />
-      <br />From as young as I can remember I have been playing games. Before even getting to high school I realized I wanted to become a game developer. 
+      <br />From as young as I can remember I have been playing games. Before even getting to high school I realized I wanted to become a software or game developer. 
       However, I did not understand what that truly entails at the time. During high school I became more and more interested in technology. 
-      This was primarly throught the Linus Tech Tips youtube channel.
+      This was primarily through the Linus Tech Tips youtube channel.
       <br />
-      <br /> As a result of this I decided to study software development as to approach game development job market with strong technical skills.
+      <br /> As a result of this I decided to study software development as to approach game development with strong technical skills.
       Towards the end of the bachelor I was happy with the practical skills I obtained, but I wanted more theoretical knowledge. 
-      Thus I went on to do a computer science and engineering master, where I primarly focused on algorithms.
+      Thus I went on to do a computer science and engineering master, where I primarily focused on algorithms.
       <br />
       <br /> Currently, I am residing in Eindhoven, The Netherlands.
 
@@ -22,7 +22,7 @@
     </div>
 
     <div class="photo">
-      <img src="img/resume-photo.png" alt="Photo of John" />
+      <img src="img/resume-photo.png" alt="Photo of Damian M. Buzink" />
     </div>
 
     <div style="clear:both"></div>
@@ -30,17 +30,22 @@
     <div class="full-content">
       <h2>Work experience</h2>
 
-      <h3>Software developer internship - CM.com</h3>
-      <h4>08 2019 - 01 2020 | Breda, The Netherlands</h4>
+      <h3>IT Consultant - Info Support - Ecofed</h3>
+      <h4>08 2024 - present | Veenendaal, The Netherlands</h4>
 
-      <div class="tech-stack">Developed a product generic invoice system.</div>
-
+      <div class="tech-stack">Worked on developing multiple proof of concept and MVPs</div>
+      <div class="tech-stack">.NET APIs and Blazor Front-ends</div>
 
       <h3>Software developer internship - Asamco B.V.</h3>
       <h4>02 2021 - 08 2021 | Breda, The Netherlands</h4>
 
       <div class="tech-stack">Developed a new version of their Loan Management System. Consisting of a new SDK with </div>
       <div class="tech-stack">core functionality, a website and a web API with the SDK functionality.</div>
+
+      <h3>Software developer internship - CM.com</h3>
+      <h4>08 2019 - 01 2020 | Breda, The Netherlands</h4>
+
+      <div class="tech-stack">Developed a product generic invoice system.</div>
 
       <h2>Skills</h2>
 
@@ -51,9 +56,9 @@
       </div>
 
       <div class="skill-set">
-        <h3>Programming language</h3>
-        <SkillRate name="C++" />
+        <h3>Programming languages</h3>
         <SkillRate name="C#"/>
+        <SkillRate name="C++" />
         <SkillRate name="Python" />
         <SkillRate name="Javascript/Typescript" />
         <SkillRate name="Java" />
@@ -62,7 +67,7 @@
 
       <div class="skill-set">
         <h3>Miscellaneous</h3>
-        <SkillRate name="Sofware design" />
+        <SkillRate name="Software design" />
         <SkillRate name="Full stack development" />
         <SkillRate name="Algorithm expertise" />
         <SkillRate name="Teamwork" />
@@ -101,6 +106,8 @@
       <h2>Some personal info</h2>
       <h3>Hobbies</h3>
       <ul>
+        <li>Working on hobby software projects</li>
+        <li>Working on hobby game projects</li>
         <li>Playing video games</li>
         <li>Watching video game analyses</li>
         <li>Reading</li>

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Non-game projects</h1>
+    <h1>Software projects</h1>
 
     <div style="margin-bottom: 30px;">
       Here are some software projects I created or where I was part of the team that created it.
@@ -15,7 +15,7 @@ import ProjectsList from "@/components/ProjectsList.vue";
 import otherProjectsData from "@/data/OtherProjectsData.ts";
 
 export default Vue.extend({
-  name: "OtherProjects",
+  name: "SoftwareProjects",
   components: {
     ProjectsList,
   },

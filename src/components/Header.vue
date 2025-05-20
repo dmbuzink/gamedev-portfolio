@@ -2,8 +2,8 @@
   <div class="header">
     <div class="nav-bar">
       <router-link to="/">About me</router-link>
+      <router-link to="/software-projects">Software projects</router-link>
       <router-link to="/game-projects">Game projects</router-link>
-      <router-link to="/other-projects">Non game projects</router-link>
       <router-link to="/resume">Resume</router-link>
       <router-link to="/contact">Contact</router-link>
     </div>
